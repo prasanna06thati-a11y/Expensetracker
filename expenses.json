@@ -1,0 +1,30 @@
+[
+    {
+        "id": 3,
+        "date": "2026-09-12",
+        "category": "Education",
+        "amount": 500,
+        "description": "Python reference book"
+    },
+    {
+        "id": 4,
+        "date": "2026-09-15",
+        "category": "Food",
+        "amount": 300,
+        "description": "Dinner"
+    },
+    {
+        "id": 5,
+        "date": "2026-09-21",
+        "category": "Entertainment",
+        "amount": 1999,
+        "description": "Movie"
+    },
+    {
+        "id": 6,
+        "date": "2026-09-30",
+        "category": "Food",
+        "amount": 150.0,
+        "description": "lunch at college"
+    }
+]
